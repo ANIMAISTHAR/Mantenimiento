@@ -9,13 +9,6 @@ package mantenimiento;
  *
  * @author DAM101
  */
-public class Mantenimiento {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Modificación 1");
-    }
+public class Coche {
     
 }
