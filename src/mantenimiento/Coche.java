@@ -10,5 +10,11 @@ package mantenimiento;
  * @author DAM101
  */
 public class Coche {
+   
+    
+    public void Esther(){ 
+  System.out.println("Funcionalidad 1 - Esther");
+    
+    }
     
 }
