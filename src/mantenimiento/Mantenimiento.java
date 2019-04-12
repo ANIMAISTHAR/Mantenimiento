@@ -16,6 +16,7 @@ public class Mantenimiento {
      */
     public static void main(String[] args) {
         System.out.println("Modificación 1");
+        System.out.println("Incidencia");
     }
     
 }
